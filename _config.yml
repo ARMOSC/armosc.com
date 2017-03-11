@@ -1,7 +1,7 @@
 title: ARMOSC
-description: 
+description: Architecture et Maîtrise d'oeuvre de Systèmes Informatiques Complexes 
 google_analytics: UA-71745992-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-tactile
 
 gems:
